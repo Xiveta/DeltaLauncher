@@ -1,3 +1,10 @@
+🔧 Development Notes
+
+This launcher is based on the original DeckyDelta plugin, also developed by this author.
+
+Parts of the logic, structure, and implementation were adapted and expanded from that project to create a standalone Linux-compatible launcher.
+
+
 🎮 Delta Online Launcher
 
 An unofficial launcher designed to simplify the installation and management of Delta Online, a fan-made reimagining of Gears of War 3 for PC with modern enhancements.
