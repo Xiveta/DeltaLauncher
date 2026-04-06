@@ -2,13 +2,21 @@
 
 An unofficial launcher designed to simplify the installation and management of Delta Online, a fan-made reimagining of Gears of War 3 for PC with modern enhancements.
 
-⚠️ Legal Disclaimer
+## ⚠️ Legal Disclaimer
 
-This project is an independent compatibility tool and is not affiliated with, endorsed by, or connected to Microsoft, Epic Games, The Coalition, or the Delta Online developers.
+This project is an independent third-party launcher and is not affiliated with, endorsed by, or connected to Microsoft, Epic Games, The Coalition, or the Delta Online developers.
 
-This launcher does not host, store, or distribute any game files, services, or authentication systems
-All downloads, authentication requests, and content retrieval are performed using external and official sources provided by Delta Online
-This project only replicates the behavior of the original launcher for compatibility purposes (e.g. Linux environments)
+- This launcher **does not own, host, or distribute any game files or content**
+- All files, assets, and services used by this launcher belong entirely to the Delta Online project
+- All downloads and authentication requests are performed through **external servers controlled by Delta Online**
+
+👉 This project only provides a tool to interact with those services.
+
+👉 None of the content accessed through this launcher is created, owned, or distributed by this repository.
+
+👉 Any issues, complaints, or legal concerns regarding the game, its files, or its distribution must be directed to the Delta Online project.
+
+👉 This project has **no control over external servers, content, or services** used by the launcher.
 
 🚀 What is Delta Online?
 
