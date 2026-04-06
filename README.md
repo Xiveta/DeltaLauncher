@@ -3,13 +3,12 @@
 An unofficial launcher designed to simplify the installation and management of Delta Online, a fan-made reimagining of Gears of War 3 for PC with modern enhancements.
 
 ⚠️ Legal Disclaimer
-This project does not store, host, or distribute any game files, accounts, or activation codes.
-It only reuses publicly available information from the original Delta Online launcher for compatibility purposes.
-All credits belong to the Delta Online project and its developers.
 
-This is an independent, community-made tool and is not affiliated with Microsoft, Epic Games, The Coalition, or the Delta Online team.
+This project is an independent compatibility tool and is not affiliated with, endorsed by, or connected to Microsoft, Epic Games, The Coalition, or the Delta Online developers.
 
-👉 If any issues arise related to the game or its services, this project is not responsible and has no control over Delta Online’s infrastructure or 
+This launcher does not host, store, or distribute any game files, services, or authentication systems
+All downloads, authentication requests, and content retrieval are performed using external and official sources provided by Delta Online
+This project only replicates the behavior of the original launcher for compatibility purposes (e.g. Linux environments)
 
 🚀 What is Delta Online?
 
@@ -52,14 +51,16 @@ content.
 📥 Requirements
 Linux system
 Internet connection
+Steam account and client
 Proton or compatible compatibility layer (e.g. Wine)
 Official Delta Online client (downloaded from official sources)
 
 Note: This launcher does not provide or include the game client. Users must obtain Delta Online through its official distribution channels.
 
 🌐 Links
-Official website: https://www.gearsdelta.online/
+Official website: https://www.getdeltaonline.net
 Community (Discord): Distributed primarily through the official community
+https://discord.gg/UkJDPtPD
 
 ❤️ Credits
 Original project: Gears of War fan community
